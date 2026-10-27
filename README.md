@@ -7,7 +7,7 @@ To develop a Python program that uses OpenAI Function Calling to identify a volu
 ### DESIGN STEPS:
 
 #### STEP 1:
-Import the required libraries, load the OpenAI API key, and define a Python function to calculate the volume of a cube using the formula \(V = s \times s \times s\).
+Import the required libraries, load the OpenAI API key, and define a Python function to calculate the volume of a cube using the formula \(V = times s \times s \times s\).
 #### STEP 2:
 Define the function schema and provide the user's request to the LLM. The model identifies the required function and generates the necessary arguments.
 #### STEP 3:

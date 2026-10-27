@@ -77,7 +77,7 @@ volume = calculate_volume(args["side"])
 print(volume)
 ```
 ### OUTPUT:
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/81e86da9-1922-4cf9-9700-de77547a4379" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b351dd5e-6588-40e6-8613-d04978843316" />
 
 ### RESULT:
 Thus, the Python function for calculating the volume of a cube was successfully integrated with the OpenAI chat completion system using LLM Function Calling, and the volume for a side length of 5 units was calculated as 125 cubic units.
